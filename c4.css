@@ -1,0 +1,43 @@
+/*
+selector {
+    property: value ;
+    ...
+    property: value;
+}
+*/
+
+body {
+    background-color:red;
+    color: darkgreen;
+    font-size: 30px;
+    font-family: sans-serif;
+
+} 
+
+span {
+    text-decoration:underline;
+    color: yellow;
+}
+.blue {
+    color:blue;
+}
+.violet {
+    color: violet;
+}
+#paragraph {
+    font-style:italic;
+}
+.iminja{
+    color:skyblue;
+    list-style: none;
+    width: 200px;
+}
+.iminja li{
+    border-bottom: 1px solid darkred
+}
+li.blue{
+    color: black;
+}
+.iminja li.blue{
+    color:honeydew;
+}
