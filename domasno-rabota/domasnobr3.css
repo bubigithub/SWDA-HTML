@@ -1,0 +1,18 @@
+/*
+selector {
+    property: value ;
+    ...
+    property: value;
+}
+*/
+body {
+background-color:red;
+color: darkgreen;
+font-size: 69px;
+font-family: sans-serif;
+}
+
+.Јадејне {
+    text-decoration: black;
+    color: red;
+}

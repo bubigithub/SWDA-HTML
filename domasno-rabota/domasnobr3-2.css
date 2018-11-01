@@ -1,0 +1,22 @@
+/*
+selector {
+    property: value ;
+    ...
+    property: value;
+}
+*/
+body {
+    background-color:violet;
+    color: yellow;
+    font-size: 42px;
+    font-family: sans-serif;
+    }
+    
+    .text {
+        text-decoration:royalblue;
+        color: red;
+    }
+    .text2 {
+        text-decoration: darkblue;
+        color:cornflowerblue;
+    }
